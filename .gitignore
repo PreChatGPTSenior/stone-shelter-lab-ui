@@ -1,0 +1,12 @@
+engineering-log/
+**/engineering-log/
+node_modules/
+.cache/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
